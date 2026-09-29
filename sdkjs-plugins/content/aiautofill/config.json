@@ -16,7 +16,7 @@
         "zh": "AI自动填充"
     },
 
-    "guid"       : "asc.{6A95DA5C-857E-4C26-B00B-34876F1EEAD8}",
+    "guid"       : "asc.{6A95DA5C-857E-4C26-B00B-34876F1EEAZ8}",
     "version"    : "1.1.0",
     "minVersion" : "9.2.0",
 
@@ -54,10 +54,6 @@
             "size"                : [400, 600],
 
             "store": {
-                "background": {
-                    "light": "linear-gradient(90deg, #F9B6FF 0%, #E370EE 102.01%)",
-                    "dark" : "linear-gradient(90deg, #F9B6FF 0%, #E370EE 102.01%)"
-                },
                 "icons" : {
                     "light" : "resources/light",
                     "dark"  : "resources/dark"
