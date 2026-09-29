@@ -54,6 +54,10 @@
             "size"                : [400, 600],
 
             "store": {
+                "background": {
+                    "light": "#DFF5FD",
+                    "dark": "#DFF5FD"
+                  },
                 "icons" : {
                     "light" : "resources/light",
                     "dark"  : "resources/dark"
