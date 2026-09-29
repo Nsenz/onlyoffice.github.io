@@ -16,8 +16,7 @@
         "zh": "AI自动填充"
     },
 
-    "offered"    : "Ascensio System SIA",
-    "guid"       : "asc.{6A95DA5C-857E-4C26-B00B-34876F1EEAD8}",
+    "guid"       : "asc.{6A95DA5C-857E-4C26-B00B-34876F1EEAZ8}",
     "version"    : "1.1.0",
     "minVersion" : "9.2.0",
 
